@@ -1,0 +1,3 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+body{background:#0b0b0b;color:#fff;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto;} 
+.container{max-width:900px;margin:40px auto;padding:20px;} .card{background:#0f1724;padding:18px;border-radius:12px;border:1px solid #1f2937;} a.button{background:#ff2e88;color:#000;padding:10px 14px;border-radius:10px;font-weight:600;text-decoration:none;}
